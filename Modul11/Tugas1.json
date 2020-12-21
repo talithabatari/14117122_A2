@@ -1,0 +1,37 @@
+{
+    "nama": {
+        "awal": "Talitha Brillinia",
+        "akhir": "Batari"
+    },
+    "jeniskelamin": "Perempuan",
+    "alamat": {
+        "jalan":"Jalan Pulau Damar No.25",
+        "kecamatan":"Perumnas Way Kandis",
+        "kelurahan":"Tanjung Senang",
+        "kota": "Bandar Lampung",
+        "provinsi": "Lampung",
+        "negara": "Indonesia"
+    },
+    "sosialMedia": {
+        "github": "talithabatari",
+        "instagram": "talithabatari"
+    },
+    "orangTua":{
+        "bapak":{
+            "nama":{
+                "awal": "Antoni",
+                "akhir": "Yulius"
+            }
+        },
+        "ibu":{
+            "nama":{
+                "awal": "Yuliana",
+                "akhir": "Astuti"
+            }
+        }
+    },
+
+    "hobi":{
+        "kegiatan":""
+    }
+}

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Data Mahasiswa</title>
+</head>
+<body>
+<h2>Tambah Data</h2>
+<form action="add.php" method="POST">
+	<table>
+		<tr>
+			<td>NIM : </td>
+			<td><input type="text" name="nim"></td>
+		</tr>
+		<tr>
+			<td>Nama : </td>
+			<td><input type="text" name="nama"></td>
+		</tr>
+		<tr>
+			<td>Alamat : </td>
+			<td><input type="text" name="alamat"></td>
+		</tr>
+		<tr>
+			<td>Program Studi : </td>
+			<td>
+				<select name="prodi">
+					<option value="IF">Teknik Informatika</option>
+					<option value="EL">Teknik Elektro</option>
+					<option value="MA">Matematika</option>
+					<option value="AR">Arsitektur</option>
+				</select>
+			</td>
+		</tr>
+		<tr>
+			<td><button type="" name="simpan">Simpan</button></td>
+		</tr>
+	</table>
+</form>	
+	<br> <br>
+	------------------------------------
+<h2>Cari Data</h2>
+<form action="search.php" method="POST">
+	<table>
+		<tr>
+			<td>Nama : </td>
+			<td><input type="text" name="snama"></td>
+			<td><button name="search">Cari Data</button></td>
+		</tr>
+	</table>
+</form>	
+	<br> <br>	
+	------------------------------------
+	<h2>Hapus Data</h2>
+<form action="delete.php" method="POST">
+	<table>
+		<tr>
+			<td>Nama : </td>
+			<td><input type="text" name="dnama"></td>
+			<td><button name="delete">Hapus Data</button></td>
+		</tr>
+	</table>
+</form>
+</body>
+</html>

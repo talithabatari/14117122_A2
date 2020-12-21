@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<dataDiri>
+    <nama>
+        <awal>Talitha Brillinia</awal>
+        <akhir>Batari</akhir>
+    </nama>
+    
+    <jeniskelamin>Perempuan</jeniskelamin>
+
+    <alamat>
+        <jalan>Jalan Pulau Damar No.25</jalan>
+        <kecamatan>Perumnas Way Kandis</kecamatan>
+        <kelurahan>Tanjung Senang</kelurahan>
+        <kota>Bandar Lampung</kota>
+        <provinsi>Lampung</provinsi>
+        <negara>Indonesia</negara>
+    </alamat>
+
+    <sosialMedia>
+        <github>talithabatari</github>
+        <instagram>talithabatari</instagram>
+    </sosialMedia>
+
+    <orangTua>
+        <bapak>
+            <nama>
+            <awal>Antoni</awal>
+            <akhir>Yulius</akhir>
+            </nama>
+        </bapak>
+
+        <ibu>
+            <nama>
+                <awal>Yuliana</awal>
+                <akhir>Astuti</akhir>
+            </nama>
+        </ibu>
+    </orangTua>
+
+    <hobi>
+        <kegiatan></kegiatan>
+    </hobi>
+</dataDiri>
